@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 91f3dced75403ee4fbedfac4d3d1bfdf
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BackwardRight_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 7354
+        width: 919
+        height: 514
+      alignment: 9
+      pivot: {x: 0.57, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0538d9ff96a68654f90c10af8992075d
+      internalID: -1561173910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackwardRight_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 4364
+        y: 7354
+        width: 919
+        height: 514
+      alignment: 9
+      pivot: {x: 0.56, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d02b9a0132e2641a307a9c0fff0bf7
+      internalID: -1226661827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackwardRight_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 5351
+        y: 7387
+        width: 919
+        height: 481
+      alignment: 9
+      pivot: {x: 0.56, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92007b57638e4c948be937395b1c2488
+      internalID: 1774069830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardRight_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 3518
+        y: 6793
+        width: 761
+        height: 440
+      alignment: 9
+      pivot: {x: 0.42, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfc822e858b88048aedf484e3ec51a0
+      internalID: 985684974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardRight_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 4283
+        y: 6791
+        width: 748
+        height: 423
+      alignment: 9
+      pivot: {x: 0.42, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab9258b8ae7c4f41977e3356cfa3097
+      internalID: 1957241955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardRight_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 5175
+        y: 6778
+        width: 764
+        height: 447
+      alignment: 9
+      pivot: {x: 0.41, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2db5eb4d1d16c43a9a0f94f3482f68
+      internalID: -1780160312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwards_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 4092
+        y: 5797
+        width: 365
+        height: 639
+      alignment: 9
+      pivot: {x: 0.49, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1892c01185910d438b9bb208c7201f5
+      internalID: -1857278307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwards_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 5783
+        width: 358
+        height: 653
+      alignment: 9
+      pivot: {x: 0.47, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d85fce444206b4c8a29f6dfc58f7ac
+      internalID: 791965565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwards_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 5154
+        y: 5768
+        width: 345
+        height: 677
+      alignment: 9
+      pivot: {x: 0.47, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c27c2cc9ec2192499cf31d9d752d4c7
+      internalID: 917575060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BackwardRight_Walk_0: -1561173910
+      BackwardRight_Walk_1: -1226661827
+      BackwardRight_Walk_2: 1774069830
+      Backwards_Walk_0: -1857278307
+      Backwards_Walk_1: 791965565
+      Backwards_Walk_2: 917575060
+      ForwardRight_Walk_0: 985684974
+      ForwardRight_Walk_1: 1957241955
+      ForwardRight_Walk_2: -1780160312
+      MovementSpritePack2_0: 1105255085
+      MovementSpritePack2_13: 674114503
+      MovementSpritePack2_14: -560827552
+      MovementSpritePack2_15: 1050727925
+      MovementSpritePack2_3: -546459438
+      MovementSpritePack2_8: -385597846
+      MovementSpritePack2_9: 566821107
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

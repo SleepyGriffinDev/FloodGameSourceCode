@@ -1,0 +1,1749 @@
+fileFormatVersion: 2
+guid: 3e30f0a4307ef24458ba9b50c4614569
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BackwardsRight_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12700
+        width: 933
+        height: 562
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565a54361e9ab004c93804803b9a94ac
+      internalID: -238616417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackwardsRight_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 12724
+        width: 1015
+        height: 536
+      alignment: 9
+      pivot: {x: 0.57, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd0bd4a963935d49afa22c813d70c51
+      internalID: 1804473772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackwardsRight_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 12719
+        width: 1062
+        height: 465
+      alignment: 9
+      pivot: {x: 0.58, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5f964f43c428b4caafbb02b821b426
+      internalID: -94072589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackwardsRight_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 4235
+        y: 12721
+        width: 1062
+        height: 527
+      alignment: 9
+      pivot: {x: 0.59, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e36cd950bc00149bc41118150755d7
+      internalID: 1995930258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackwardsRight_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 5752
+        y: 12706
+        width: 1063
+        height: 493
+      alignment: 9
+      pivot: {x: 0.54, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577206f90ec8c9b4e9d6d8302d0f2b66
+      internalID: -1136720843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackwardsRight_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 7108
+        y: 12738
+        width: 1067
+        height: 481
+      alignment: 9
+      pivot: {x: 0.54, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711ae2dd56830a3438c34c305a02b99d
+      internalID: -970991020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackwardsRight_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 8614
+        y: 12736
+        width: 1059
+        height: 488
+      alignment: 9
+      pivot: {x: 0.56, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f661a6f30a62e804e95953029064949b
+      internalID: 675811052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12019
+        width: 951
+        height: 424
+      alignment: 9
+      pivot: {x: 0.54, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f68a909c1b5af54f96b40fa1c54c6bd
+      internalID: 1974083173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 11990
+        width: 948
+        height: 440
+      alignment: 9
+      pivot: {x: 0.55, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e717fe9ef4af9f3438a6810ccea20dd3
+      internalID: -363222030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 11991
+        width: 961
+        height: 407
+      alignment: 9
+      pivot: {x: 0.519202, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b5de7fe6dd9f844b71079843d35d05
+      internalID: 256399293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 3884
+        y: 11990
+        width: 953
+        height: 446
+      alignment: 9
+      pivot: {x: 0.55, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab2eb937372c6b4cb90c7e83ba36068
+      internalID: -1583138779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Charge_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11175
+        width: 1242
+        height: 472
+      alignment: 9
+      pivot: {x: 0.51, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51341d5deff43014cb396867dc7fab45
+      internalID: -868784546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Charge_1
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 11185
+        width: 1123
+        height: 473
+      alignment: 9
+      pivot: {x: 0.54, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1c608fdd938564a9c15adf96bcb7d3
+      internalID: -900856245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Charge_2
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 11171
+        width: 1083
+        height: 433
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7765ce6cd37a1c9469cabb12f319fcfa
+      internalID: 317067959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 10413
+        width: 1123
+        height: 547
+      alignment: 9
+      pivot: {x: 0.56, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98d62925cc922646a55ca3df853de02
+      internalID: -1372832917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 3777
+        y: 10379
+        width: 1215
+        height: 534
+      alignment: 9
+      pivot: {x: 0.53, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b03d42bc678bb419e290e7f3d29a77
+      internalID: -538784956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 7805
+        y: 10252
+        width: 1109
+        height: 634
+      alignment: 9
+      pivot: {x: 0.55, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969ee83ac9268af4b9ad6fbda190f789
+      internalID: 771919052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10413
+        width: 1154
+        height: 453
+      alignment: 9
+      pivot: {x: 0.55, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb807d80be1b804ea6532cea5e9d080
+      internalID: 1868250400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 10399
+        width: 1147
+        height: 453
+      alignment: 9
+      pivot: {x: 0.55, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3480d3e79176d94aa0d518e6210a27f
+      internalID: 2099578442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 5109
+        y: 10426
+        width: 1193
+        height: 413
+      alignment: 9
+      pivot: {x: 0.53, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d861c55457fc475438a52b4e99e235bc
+      internalID: 1206251514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 6448
+        y: 10311
+        width: 1116
+        height: 560
+      alignment: 9
+      pivot: {x: 0.55, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439f8ad0ed46bf04c94e1f2ef8f97bae
+      internalID: -1717015463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwards_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 9607
+        width: 366
+        height: 643
+      alignment: 9
+      pivot: {x: 0.49, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aeb6598a56747140a13670e2b0c8b3c
+      internalID: 1839297158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwards_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 9540
+        width: 364
+        height: 593
+      alignment: 9
+      pivot: {x: 0.51, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7c6dee40a14ed4199ff3db77d67b70
+      internalID: 1046800010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwards_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 9506
+        width: 331
+        height: 636
+      alignment: 9
+      pivot: {x: 0.53, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85609bc1c23e9b14499ed01988026c6d
+      internalID: 859501592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwards_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 9486
+        width: 331
+        height: 703
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507ce36fe6e8ea1499e8a81d525579b9
+      internalID: 1340952983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwards_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 4763
+        y: 9472
+        width: 318
+        height: 541
+      alignment: 9
+      pivot: {x: 0.56, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f9ea3ba0ac55d4ab9749a99e990d6b
+      internalID: -1360845030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwards_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 7091
+        y: 9560
+        width: 321
+        height: 507
+      alignment: 9
+      pivot: {x: 0.54, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a91bbab0bc7a345845feb6482f183b
+      internalID: -54260156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwards_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 5987
+        y: 9513
+        width: 318
+        height: 493
+      alignment: 9
+      pivot: {x: 0.54, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a2027481a33b046abfc38f6ea443c8
+      internalID: -188463350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackwardsRight_Charge_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8746
+        width: 883
+        height: 504
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8967367d4f760ab4cbd9ad0d4395cca6
+      internalID: -1126167596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackwardsRight_Charge_1
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 8761
+        width: 879
+        height: 494
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf36f82f2331a34cb194154f4b0108e
+      internalID: -1735058790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackwardsRight_Charge_2
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 8768
+        width: 873
+        height: 487
+      alignment: 9
+      pivot: {x: 0.55, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9576767fb43d40947927d9ce92bda266
+      internalID: 308441412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward_Charge_0
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 7854
+        width: 325
+        height: 548
+      alignment: 9
+      pivot: {x: 0.51, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5bdbbc340c33d4e826cfb02ed5e8ac
+      internalID: 1926670773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward_Charge_1
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 7848
+        width: 325
+        height: 582
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae91093a7c7096b4db1e59a27cd1afb6
+      internalID: -531273493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward_Charge_2
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 7834
+        width: 330
+        height: 562
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b048a3273f2f104ebf8ed3e54064ae8
+      internalID: -404447499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 6956
+        width: 365
+        height: 618
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31e59863f25534418c38a865c2b62da
+      internalID: -1918751556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 6957
+        width: 358
+        height: 630
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8544cc3780936874ba8c8e62421d3c96
+      internalID: -270399749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 6958
+        width: 365
+        height: 618
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbafb579f3dc53498077a3e6f3c7e0f
+      internalID: -1752534983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backward_Charge_0
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 6047
+        width: 364
+        height: 670
+      alignment: 9
+      pivot: {x: 0.51, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea6f7af7abe14f4185b749afbcca6f8
+      internalID: 1964583256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backward_Charge_1
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 6034
+        width: 352
+        height: 643
+      alignment: 9
+      pivot: {x: 0.49, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6a25a58a3d55b42a2554034b84a41d
+      internalID: 1084924831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backward_Charge_2
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 6007
+        width: 351
+        height: 636
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3473ce6e69216b40bc92ad952e23715
+      internalID: 41260829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardRight_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 5337
+        width: 788
+        height: 419
+      alignment: 9
+      pivot: {x: 0.47, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3509a3d006e9f8343a1621ae887ba37d
+      internalID: 6637472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardRight_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 5303
+        width: 778
+        height: 411
+      alignment: 9
+      pivot: {x: 0.47, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bcf0ddc1d44e343a92b08aee5b3579
+      internalID: -1970424555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardRight_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 5320
+        width: 799
+        height: 409
+      alignment: 9
+      pivot: {x: 0.47, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c427bd434c55aa648877601215ab7f8e
+      internalID: 1685256865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardRight_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 3571
+        y: 5249
+        width: 785
+        height: 426
+      alignment: 9
+      pivot: {x: 0.49, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd891a74ba6a48d4a9429022d8ebb2b6
+      internalID: 1504692139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardRight_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 4512
+        y: 5229
+        width: 791
+        height: 432
+      alignment: 9
+      pivot: {x: 0.49, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e021ab2010bb803439cd206ed81e3b9d
+      internalID: -836378891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardRight_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 5426
+        y: 5191
+        width: 778
+        height: 423
+      alignment: 9
+      pivot: {x: 0.46, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86796cf3719d3824383338db13b3b376
+      internalID: -1685006687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardRight_Charge_2
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 4689
+        width: 785
+        height: 451
+      alignment: 9
+      pivot: {x: 0.44, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be58a7fb3becfdc4889244b54d513a99
+      internalID: -1200358784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardRight_Charge_0
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 4668
+        width: 785
+        height: 425
+      alignment: 9
+      pivot: {x: 0.43, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8085109a68ebba499f07e76007e3537
+      internalID: -636844712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardRight_Charge_1
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 4675
+        width: 797
+        height: 420
+      alignment: 9
+      pivot: {x: 0.44, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d68a2313a644f43b14ff8b2a0e4da2
+      internalID: 1410788293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3723
+        width: 371
+        height: 619
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2041abe367eb0664a953408ec0172d7a
+      internalID: -238405470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 3707
+        width: 368
+        height: 601
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decb00d8cce2f894d9ee60c076b3612c
+      internalID: 2087002251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 3699
+        width: 365
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec072333dc3b184dbd2e26c6169f708
+      internalID: -1504813004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 3672
+        width: 331
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f950da5027843b346b311488c0078d04
+      internalID: -1247229677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 3672
+        width: 331
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefbe695a6a8b2b438e9d3d9feb31791
+      internalID: -738158848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 3693
+        width: 324
+        height: 562
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20ade959ca3efb4b81ca0760db9786c
+      internalID: 1059102952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 3855
+        y: 3672
+        width: 324
+        height: 561
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39792e879b6c8184190122aa929ff6f9
+      internalID: -306874734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2995
+        width: 1101
+        height: 487
+      alignment: 9
+      pivot: {x: 0.55, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626c8cda937cf274396e88e8931a3301
+      internalID: -755081311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 2981
+        width: 1103
+        height: 487
+      alignment: 9
+      pivot: {x: 0.55, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f44222d922f5d489d448178829d11f
+      internalID: -564363873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Right_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 2819
+        y: 2981
+        width: 1097
+        height: 488
+      alignment: 9
+      pivot: {x: 0.55, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6542f85254a0a174385657e506bdf9e3
+      internalID: -325511988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 2197
+        width: 311
+        height: 615
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db5127e3123d6e42ac655ed9ffca24b
+      internalID: 1827681974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 2196
+        width: 318
+        height: 589
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9753acfa2125f3498805ef7d38594fa
+      internalID: -1801462426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forward_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 2183
+        width: 311
+        height: 616
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38f2f2f407f1d14c8eea26f2791fe37
+      internalID: -1208581684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwards_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1289
+        width: 379
+        height: 711
+      alignment: 9
+      pivot: {x: 0.48, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4454fabacdf00b548b850862931d3c35
+      internalID: -26447287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwards_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1290
+        width: 378
+        height: 690
+      alignment: 9
+      pivot: {x: 0.48, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d16efbb98fa4745b7d36b544afcd33
+      internalID: 353791520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Backwards_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1303
+        width: 379
+        height: 710
+      alignment: 9
+      pivot: {x: 0.49, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991f3645154ac6945a37b7f8b6fffeb8
+      internalID: 43555014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackwardsRight_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 613
+        width: 954
+        height: 534
+      alignment: 9
+      pivot: {x: 0.56, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a696ea66a7c2d346803428dd390e584
+      internalID: -311450783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackwardsRight_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 640
+        width: 944
+        height: 521
+      alignment: 9
+      pivot: {x: 0.56, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e348fb22b0ace14795681ddaf9e6ca0
+      internalID: 484509766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BackwardsRight_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 640
+        width: 954
+        height: 534
+      alignment: 9
+      pivot: {x: 0.56, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f368b0fb275b646a0ec5bcc0d075f8
+      internalID: 1513228112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardRight_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 771
+        height: 422
+      alignment: 9
+      pivot: {x: 0.43, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bd6d8459d1afc45b123885cede8a8d
+      internalID: 149743199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardRight_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 0
+        width: 775
+        height: 396
+      alignment: 9
+      pivot: {x: 0.43, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d34e5b4aecdb24429b13a598c1af22e
+      internalID: 364841192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardRight_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 3
+        width: 752
+        height: 427
+      alignment: 9
+      pivot: {x: 0.43, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0814d81429207364fbc554b8566f85a0
+      internalID: -1633279564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5f6d34df016583e4ca4f2a38e5f598b1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Backward_Charge_0: 1964583256
+      Backward_Charge_1: 1084924831
+      Backward_Charge_2: 41260829
+      BackwardsRight_Charge_0: -1126167596
+      BackwardsRight_Charge_1: -1735058790
+      BackwardsRight_Charge_2: 308441412
+      BackwardsRight_Idle_0: -311450783
+      BackwardsRight_Idle_1: 484509766
+      BackwardsRight_Idle_2: 1513228112
+      BackwardsRight_Jump_0: -238616417
+      BackwardsRight_Jump_1: 1804473772
+      BackwardsRight_Jump_2: -94072589
+      BackwardsRight_Jump_3: 1995930258
+      BackwardsRight_Jump_4: -1136720843
+      BackwardsRight_Jump_5: -970991020
+      BackwardsRight_Jump_6: 675811052
+      Backwards_Idle_0: -26447287
+      Backwards_Idle_1: 353791520
+      Backwards_Idle_2: 43555014
+      Backwards_Jump_0: 1839297158
+      Backwards_Jump_1: 1046800010
+      Backwards_Jump_2: 859501592
+      Backwards_Jump_3: 1340952983
+      Backwards_Jump_4: -1360845030
+      Backwards_Jump_5: -188463350
+      Backwards_Jump_6: -54260156
+      ForwardRight_Charge_0: -636844712
+      ForwardRight_Charge_1: 1410788293
+      ForwardRight_Charge_2: -1200358784
+      ForwardRight_Idle_0: 149743199
+      ForwardRight_Idle_1: 364841192
+      ForwardRight_Idle_2: -1633279564
+      ForwardRight_Jump_0: 6637472
+      ForwardRight_Jump_1: -1970424555
+      ForwardRight_Jump_2: 1685256865
+      ForwardRight_Jump_3: 1504692139
+      ForwardRight_Jump_4: -836378891
+      ForwardRight_Jump_5: -1685006687
+      Forward_Charge_0: 1926670773
+      Forward_Charge_1: -531273493
+      Forward_Charge_2: -404447499
+      Forward_Idle_0: 1827681974
+      Forward_Idle_1: -1801462426
+      Forward_Idle_2: -1208581684
+      Forward_Jump_0: -238405470
+      Forward_Jump_1: 2087002251
+      Forward_Jump_2: -1504813004
+      Forward_Jump_3: -1247229677
+      Forward_Jump_4: -738158848
+      Forward_Jump_5: 1059102952
+      Forward_Jump_6: -306874734
+      Forward_Walk_0: -1918751556
+      Forward_Walk_1: -270399749
+      Forward_Walk_2: -1752534983
+      IMG_0635_100: -231748602
+      IMG_0635_107: 699979870
+      IMG_0635_108: -1610637006
+      IMG_0635_109: -1638708079
+      IMG_0635_110: 1119948188
+      IMG_0635_111: -1708031216
+      IMG_0635_112: -1293764411
+      IMG_0635_113: 337750212
+      IMG_0635_114: -1799068131
+      IMG_0635_115: 1741787867
+      IMG_0635_116: -87249401
+      IMG_0635_117: 309740298
+      IMG_0635_118: -1777382643
+      IMG_0635_119: -1096027567
+      IMG_0635_120: 1113768809
+      IMG_0635_121: -1940069537
+      IMG_0635_122: 1888835060
+      IMG_0635_123: -2053247582
+      IMG_0635_124: 268871550
+      IMG_0635_125: 325923469
+      IMG_0635_126: -1183658746
+      IMG_0635_127: -1264530931
+      IMG_0635_13: 663894578
+      IMG_0635_14: 1967201467
+      IMG_0635_15: 1174830888
+      IMG_0635_18: 200449359
+      IMG_0635_19: 1999955201
+      IMG_0635_21: 987316443
+      IMG_0635_22: -1183328906
+      IMG_0635_23: 2065812117
+      IMG_0635_25: 241963694
+      IMG_0635_26: -902653310
+      IMG_0635_27: 536872021
+      IMG_0635_29: -2032277374
+      IMG_0635_35: -1234599282
+      IMG_0635_40: -1016863937
+      IMG_0635_41: 1565616514
+      IMG_0635_42: 332816838
+      IMG_0635_44: 210371525
+      IMG_0635_45: -1274290982
+      IMG_0635_46: -296817835
+      IMG_0635_48: 1595286589
+      IMG_0635_50: 995363607
+      IMG_0635_51: 824743323
+      IMG_0635_52: 1829717387
+      IMG_0635_53: 532309552
+      IMG_0635_54: -920990447
+      IMG_0635_55: 996575648
+      IMG_0635_56: 741448777
+      IMG_0635_57: 307998897
+      IMG_0635_58: -1189982320
+      IMG_0635_59: -501397111
+      IMG_0635_6: -1736760929
+      IMG_0635_60: -697871407
+      IMG_0635_61: 2016411482
+      IMG_0635_62: 690341941
+      IMG_0635_63: 1681123599
+      IMG_0635_70: 239462861
+      IMG_0635_72: -957217713
+      IMG_0635_74: -968193762
+      IMG_0635_76: 1025197913
+      IMG_0635_77: -2102902238
+      IMG_0635_78: 146634448
+      IMG_0635_86: 1826739285
+      IMG_0635_89: 672885163
+      IMG_0635_9: 240708766
+      IMG_0635_90: -1020251004
+      IMG_0635_91: -1358245258
+      IMG_0635_93: 849157186
+      IMG_0635_96: 15972382
+      IMG_0635_97: 662734654
+      IMG_0635_98: 1455806658
+      MovementSpritePack_0: 730376320
+      Right_Charge_0: -868784546
+      Right_Charge_1: -900856245
+      Right_Charge_2: 317067959
+      Right_Idle_0: -755081311
+      Right_Idle_1: -564363873
+      Right_Idle_2: -325511988
+      Right_Jump_0: 1868250400
+      Right_Jump_1: 2099578442
+      Right_Jump_2: -1372832917
+      Right_Jump_3: -538784956
+      Right_Jump_4: 1206251514
+      Right_Jump_5: -1717015463
+      Right_Jump_6: 771919052
+      Right_Walk_0: 1974083173
+      Right_Walk_1: -363222030
+      Right_Walk_2: 256399293
+      Right_Walk_3: -1583138779
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
